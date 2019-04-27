@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Preference Example</string>
+    <string name="shared_preference_file_key">et.edu.aait.shared_pref_01</string>
+    <string name="save_button">Save</string>
+    <string name="load_button">Load</string>
+    <string name="text_hint">Type your text here</string>
+</resources>
